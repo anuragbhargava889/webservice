@@ -3,7 +3,7 @@ namespace PHPSTORM_META {
 
    /**
     * PhpStorm Meta file, to provide autocomplete information for PhpStorm
-    * Generated on 2017-03-31.
+    * Generated on 2017-04-26.
     *
     * @author Barry vd. Heuvel <barryvdh@gmail.com>
     * @see https://github.com/barryvdh/laravel-ide-helper
@@ -70,6 +70,7 @@ namespace PHPSTORM_META {
             'tymon.jwt.validators.payload' instanceof \Tymon\JWTAuth\Validators\PayloadValidator,
             'tymon.jwt.payload.factory' instanceof \Tymon\JWTAuth\PayloadFactory,
             'tymon.jwt.generate' instanceof \Tymon\JWTAuth\Commands\JWTGenerateCommand,
+            'explore' instanceof \Teepluss\Explore\Explore,
             'blade.compiler' instanceof \Illuminate\View\Compilers\BladeCompiler,
             'Tymon\JWTAuth\JWTAuth' instanceof \Tymon\JWTAuth\JWTAuth,
             'Tymon\JWTAuth\Providers\User\UserInterface' instanceof \Tymon\JWTAuth\Providers\User\EloquentUserAdapter,
@@ -231,6 +232,7 @@ namespace PHPSTORM_META {
             'tymon.jwt.validators.payload' instanceof \Tymon\JWTAuth\Validators\PayloadValidator,
             'tymon.jwt.payload.factory' instanceof \Tymon\JWTAuth\PayloadFactory,
             'tymon.jwt.generate' instanceof \Tymon\JWTAuth\Commands\JWTGenerateCommand,
+            'explore' instanceof \Teepluss\Explore\Explore,
             'blade.compiler' instanceof \Illuminate\View\Compilers\BladeCompiler,
             'Tymon\JWTAuth\JWTAuth' instanceof \Tymon\JWTAuth\JWTAuth,
             'Tymon\JWTAuth\Providers\User\UserInterface' instanceof \Tymon\JWTAuth\Providers\User\EloquentUserAdapter,
@@ -392,6 +394,7 @@ namespace PHPSTORM_META {
             'tymon.jwt.validators.payload' instanceof \Tymon\JWTAuth\Validators\PayloadValidator,
             'tymon.jwt.payload.factory' instanceof \Tymon\JWTAuth\PayloadFactory,
             'tymon.jwt.generate' instanceof \Tymon\JWTAuth\Commands\JWTGenerateCommand,
+            'explore' instanceof \Teepluss\Explore\Explore,
             'blade.compiler' instanceof \Illuminate\View\Compilers\BladeCompiler,
             'Tymon\JWTAuth\JWTAuth' instanceof \Tymon\JWTAuth\JWTAuth,
             'Tymon\JWTAuth\Providers\User\UserInterface' instanceof \Tymon\JWTAuth\Providers\User\EloquentUserAdapter,
@@ -553,6 +556,7 @@ namespace PHPSTORM_META {
             'tymon.jwt.validators.payload' instanceof \Tymon\JWTAuth\Validators\PayloadValidator,
             'tymon.jwt.payload.factory' instanceof \Tymon\JWTAuth\PayloadFactory,
             'tymon.jwt.generate' instanceof \Tymon\JWTAuth\Commands\JWTGenerateCommand,
+            'explore' instanceof \Teepluss\Explore\Explore,
             'blade.compiler' instanceof \Illuminate\View\Compilers\BladeCompiler,
             'Tymon\JWTAuth\JWTAuth' instanceof \Tymon\JWTAuth\JWTAuth,
             'Tymon\JWTAuth\Providers\User\UserInterface' instanceof \Tymon\JWTAuth\Providers\User\EloquentUserAdapter,
